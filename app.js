@@ -6,7 +6,7 @@ const km=document.getElementById("km")
 const fiyat=document.getElementById("fiyat")
 
 const cars=document.getElementById("cars")
-const btn=document.querySelector(".btn")
+const ekle=document.querySelector("#ekle")
 // console.log(form);
 
 form.addEventListener("click",(e)=>{
